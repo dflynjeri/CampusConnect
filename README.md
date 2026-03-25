@@ -1,2 +1,2 @@
 # CampusConnect
-This is a school exam web portal project
+This is a school exam three page web portal project
